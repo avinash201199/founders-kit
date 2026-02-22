@@ -97,13 +97,13 @@ This collection includes:
 ### Books
 
 #### Foundational Startup Books
-- [The Four Steps to the Epiphany - Steve Blank](https://www.steveblank.com/)
-- [The Startup Owner's Manual - Steve Blank](https://www.steveblank.com/)
-- [Running Lean - Ash Maurya](https://www.runninglean.co/)
-- [The Lean Startup - Eric Ries](https://www.leanstartup.com/)
-- [Zero to One - Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
-- [The Hard Thing About Hard Things - Ben Horowitz](https://www.benhorowitz.com/)
-- [Founders At Work - Jessica Livingston](https://www.foundersatwork.com/)
+- [The Four Steps to the Epiphany - Steve Blank](https://amzn.to/46n8bP3))
+- [The Startup Owner's Manual - Steve Blank](https://amzn.to/4rzkEaX))
+- [Running Lean - Ash Maurya](https://amzn.to/4kPgZTB)
+- [The Lean Startup - Eric Ries](https://amzn.to/4rwpzcI)
+- [Zero to One - Peter Thiel](https://amzn.to/3ZMyWc3)
+- [The Hard Thing About Hard Things - Ben Horowitz](https://amzn.to/4tFyBFA)
+- [Founders At Work - Jessica Livingston](https://amzn.to/3OqEfvi)
 
 #### Product & Growth
 - [Hooked: How to Build Habit-Forming Products](https://www.hookedbook.com/)
