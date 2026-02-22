@@ -1098,7 +1098,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Acknowledgments
 
-This repository is maintained by [Avinash Sigh](https://x.com/AvinashSingh_20) Special thanks to all contributors who have helped curate and maintain this collection.
+This repository is maintained by [Avinash Singh](https://x.com/AvinashSingh_20) Special thanks to all contributors who have helped curate and maintain this collection.
 
 ## 💬 Community & Support
 
@@ -1109,6 +1109,6 @@ This repository is maintained by [Avinash Sigh](https://x.com/AvinashSingh_20) S
 
 ---
 
-**Made with ❤️ by [Avinash Sigh](https://x.com/AvinashSingh_20)**
+**Made with ❤️ by [Avinash Singh](https://x.com/AvinashSingh_20)**
 
 *Last Updated: February 2026*
