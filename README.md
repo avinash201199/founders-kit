@@ -9,6 +9,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/bc9fc214-4558-459d-86c3-b60a2b06b7d6" />
+
+
 ## About
 
 Building a startup is hard. Finding the right tools shouldn't be.
