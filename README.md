@@ -2,8 +2,11 @@
 
 > A comprehensive, community-driven collection of 700+ resources, tools, and links for startup founders, entrepreneurs, and makers.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 [![GitHub stars](https://img.shields.io/github/stars/avinash201199/founders-kit?style=social)](https://github.com/avinash201199/founders-kit)
+[![GitHub forks](https://img.shields.io/github/forks/avinash201199/founders-kit?style=social)](https://github.com/avinash201199/founders-kit/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/avinash201199/founders-kit?style=social)](https://github.com/avinash201199/founders-kit/watchers)
+[![GitHub issues](https://img.shields.io/github/issues/avinash201199/founders-kit)](https://github.com/avinash201199/founders-kit/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
