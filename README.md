@@ -1086,7 +1086,7 @@ If you find this repository valuable and want to support its growth:
 - Reach out for collaborations and ecosystem partnerships
 
 For sponsorship or partnership inquiries, connect via X:  
-[Avinash Singh]https://x.com/AvinashSingh_20
+[Avinash Singh](https://x.com/AvinashSingh_20)
 
 ## 📜 License
 
