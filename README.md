@@ -524,6 +524,7 @@ This collection includes:
 
 ## Payments
 
+- [Dodo payments](https://app.dodopayments.com/partners/sYbKltTo3h/signup)
 - [Stripe](https://stripe.com/)
 - [PayPal](https://www.paypal.com/)
 - [Adyen](https://www.adyen.com/)
