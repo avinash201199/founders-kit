@@ -13,7 +13,7 @@
 
 Building a startup is hard. Finding the right tools shouldn't be.
 
-This repository is a curated directory of essential resources for every stage of your startup journey—from ideation to scaling. Whether you're a first-time founder or a serial entrepreneur, you'll find tools for product development, marketing, fundraising, team management, and everything in between.
+This repository is a curated directory of essential resources for every stage of your startup journey -> from ideation to scaling. Whether you're a first-time founder or a serial entrepreneur, you'll find tools for product development, marketing, fundraising, team management, and everything in between.
 
 ##  Who Is This For?
 
