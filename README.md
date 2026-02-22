@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/bc9fc214-4558-459d-86c3-b60a2b06b7d6" />
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/74defc00-9e63-4e2b-adc2-c4db45e2bc24" />
 
 
 ## About
