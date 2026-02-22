@@ -1,7 +1,6 @@
 # Founders Kit ⚙️
 
-> A comprehensive, community-driven collection of 700+ resources, tools, and links for startup founders, entrepreneurs, and makers.
-
+> A curated collection of essential resources, tools, and playbooks to help founders build, launch, and scale startups successfully.
 
 [![GitHub stars](https://img.shields.io/github/stars/avinash201199/founders-kit?style=social)](https://github.com/avinash201199/founders-kit)
 [![GitHub forks](https://img.shields.io/github/forks/avinash201199/founders-kit?style=social)](https://github.com/avinash201199/founders-kit/network)
