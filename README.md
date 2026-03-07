@@ -486,6 +486,7 @@ This collection includes:
 ## AI Tools
 
 - [ChatGPT](https://chat.openai.com/)
+- [AskElephant](https://www.askelephant.ai/) - AI workflow automation and chat for revenue teams; turns calls, CRM, docs, and notes into automated follow-ups and updates
 - [Rows](https://rows.com/)
 - [Copy.ai](https://www.copy.ai/)
 - [Jasper](https://www.jasper.ai/)
