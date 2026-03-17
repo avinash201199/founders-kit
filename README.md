@@ -635,6 +635,7 @@ This collection includes:
 - [Buffer](https://buffer.com/)
 - [BuzzSumo](https://buzzsumo.com/)
 - [QuickTwit](https://www.quicktwit.com/)
+- [SocialBu](https://socialbu.com/) - AI-powered social media management and automation platform
 - [SocialBlade](https://socialblade.com/)
 - [Tubebuddy](https://www.tubebuddy.com/)
 
