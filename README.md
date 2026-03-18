@@ -47,6 +47,19 @@ This collection includes:
 3. **Bookmark** - Star this repo to keep it handy
 4. **Contribute** - Found something useful? Add it via pull request!
 
+
+## 💡 How to Use This Kit (Use Cases)
+
+Because this is a curated directory rather than a software application, **no installation is required**. Simply bookmark this page, star the repository, or fork it to your own GitHub account to keep it handy as a living reference. 
+
+Here are a few ways you can navigate the kit based on your current startup stage:
+
+* **Idea & Validation Stage:** Validate your market and problem using the resources in the **Customer Development** and **Inspiration & Discovery** sections.
+* **Building an MVP:** If you are a non-technical founder, jump straight to the **No-Code Tools** to build your first iteration. Developers can utilize the **Automation & Backend** tools to move faster.
+* **Preparing to Launch:** Refine your messaging using the **Content & SEO** guides, and plan your launch day strategy using platforms listed under **Places to Share & Promote**.
+* **Raising Capital:** Get ready for investor meetings by accessing pitch deck templates, angel directories, and term sheet guides in the **Fundraising** section.
+* **Scaling Operations:** When it is time to hire and build internal processes, utilize the **Team Management** and **Company Building** resources.
+
 ## 📋 Table of Contents
 
 - [Learning & Knowledge](#learning--knowledge)
