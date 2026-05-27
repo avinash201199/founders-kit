@@ -41,5 +41,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
 
+		<tr>
+			<td>LandscapioAI</td>
+			<td>AI / SaaS / Design Tools</td>
+			<td>AI landscape design visualizations from outdoor space photos.</td>
+			<td>Homeowners, landscapers, garden designers, and real estate teams</td>
+			<td>Paid</td>
+			<td><a href="https://www.landscapioai.com/">landscapioai.com</a></td>
+		</tr>
 	</tbody>
 </table>
