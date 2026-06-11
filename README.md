@@ -534,6 +534,7 @@ This collection includes:
 
 - [Dodo payments](https://app.dodopayments.com/partners/sYbKltTo3h/signup)
 - [Stripe](https://stripe.com/)
+- [LLC Class](https://llcclass.com) - [Wyoming LLC registration](https://llcclass.com/wyoming) for non-US founders who need a US entity to access Stripe; includes [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent), EIN, and Operating Agreement
 - [PayPal](https://www.paypal.com/)
 - [Adyen](https://www.adyen.com/)
 - [PagarMe](https://pagarme.com/)
