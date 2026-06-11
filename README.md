@@ -253,6 +253,12 @@ This collection includes:
 - [BrandBucket](https://www.brandbucket.com/)
 - [Squadhelp](https://www.squadhelp.com/)
 
+### Legal & Company Formation
+
+- [LLC Class](https://llcclass.com/wyoming) — Wyoming LLC registration for non-US founders. Includes [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent), EIN filing, operating agreement, and support for opening Stripe and Mercury accounts. Starting at $199.
+- [Stripe Atlas](https://stripe.atlas.com/) — Register a Delaware C-Corp, get Stripe payments, and a Mercury bank account. $500 one-time fee.
+- [Clerky](https://www.clerky.com/) — Legal paperwork for startups, including incorporation, SAFEs, and NDAs.
+
 ### Co-founders
 - [Founders and Co-founders by Startups.com](https://www.startups.com/)
 - [How to Find a Co-Founder](https://www.howtofindacofounder.com/)
