@@ -40,6 +40,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free / Includes Paid Items</td>
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
+		<tr>
+			<td>UIZZE</td>
+			<td>Design / Developer Tools</td>
+			<td>Browse public web and iOS UI references, then connect paid agent tools when you need them.</td>
+			<td>Designers and developers using coding agents</td>
+			<td>Free / Paid</td>
+			<td><a href="https://uizze.com/mobbin-alternative">uizze.com/mobbin-alternative</a></td>
+		</tr>
 
 	</tbody>
 </table>
