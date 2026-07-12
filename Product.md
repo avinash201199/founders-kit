@@ -40,6 +40,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free / Includes Paid Items</td>
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
+		<tr>
+			<td>AnswerLens</td>
+			<td>SaaS / Marketing</td>
+			<td>Checks the public evidence on B2B SaaS websites and turns gaps into a source-backed implementation plan.</td>
+			<td>B2B SaaS founders, growth teams, and agencies</td>
+			<td>Free scan / One-time report</td>
+			<td><a href="https://app.sfdj.net">app.sfdj.net</a></td>
+		</tr>
 
 	</tbody>
 </table>
