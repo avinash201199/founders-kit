@@ -40,6 +40,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free / Includes Paid Items</td>
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
+		<tr>
+			<td>DDScore</td>
+			<td>AI / Due Diligence</td>
+			<td>Turns company materials into structured investment analysis and a probability-based due diligence score.</td>
+			<td>Founders, investors, accelerators and company evaluators</td>
+			<td>Freemium</td>
+			<td><a href="https://www.ddscore.ai/">ddscore.ai</a></td>
+		</tr>
 
 	</tbody>
 </table>
