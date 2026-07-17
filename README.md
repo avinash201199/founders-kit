@@ -606,6 +606,7 @@ This collection includes:
 - [Simple Analytics](https://simpleanalytics.com/)
 - [Pirsch](https://pirsch.io/)
 - [Heap](https://heap.io/)
+- [Zoho Apptics](https://www.zoho.com/apptics/)
 
 ### Behavior Analytics
 - [Hotjar](https://www.hotjar.com/)
