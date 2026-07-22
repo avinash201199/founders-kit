@@ -40,6 +40,21 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free / Includes Paid Items</td>
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
-
+		<tr>
+			<td>BigIdeasDB</td>
+			<td>SaaS / Market Intelligence</td>
+			<td>Find validated startup and app ideas backed by real user pain points from Reddit, G2, Capterra, and app store reviews.</td>
+			<td>Founders and product builders validating ideas before building</td>
+			<td>Freemium</td>
+			<td><a href="https://bigideasdb.com">bigideasdb.com</a></td>
+		</tr>
+		<tr>
+			<td>Linkeddit</td>
+			<td>SaaS / Marketing</td>
+			<td>AI demand and competitor intelligence platform that finds buyers ready to switch to you across review sites, Reddit, and the open web.</td>
+			<td>SaaS teams, agencies, consultants, and founder-led sales teams</td>
+			<td>Freemium</td>
+			<td><a href="https://linkeddit.com">linkeddit.com</a></td>
+		</tr>
 	</tbody>
 </table>
