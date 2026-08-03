@@ -441,6 +441,7 @@ This collection includes:
 - [Google Data Studio](https://datastudio.google.com/u/0/)
 - [Witeboard](https://witeboard.com/)
 - [Easel.ly](https://www.easel.ly/)
+- [flow-chart.io](https://flow-chart.io/) - AI-powered diagram generator for C4 architecture, BPMN, cloud architecture, and ERD diagrams — fully editable output.
 
 ### Presentations
 - [Beautiful.ai](https://www.beautiful.ai/)
