@@ -58,5 +58,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
 
+		<tr>
+			<td>Suanleb</td>
+			<td>Astrology &amp; Spirituality</td>
+			<td>Explore Bazi four-pillar charts, three-card Tarot and Vedic astrology readings powered by real calculation libraries, saved history and transparent methodology.</td>
+			<td>People exploring Bazi, Tarot, and Vedic astrology</td>
+			<td>Freemium</td>
+			<td><a href="https://suanlem.asia/">suanlem.asia</a></td>
+		</tr>
+
 	</tbody>
 </table>
