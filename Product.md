@@ -41,5 +41,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
 
+		<tr>
+			<td>Micro-SaaS Runway Price Floor Calculator</td>
+			<td>Founder Tools</td>
+			<td>Browser calculator for estimating a micro-SaaS price floor, break-even customers, and runway gap.</td>
+			<td>Bootstrapped micro-SaaS founders and solo operators</td>
+			<td>Free</td>
+			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
+		</tr>
+
 	</tbody>
 </table>
