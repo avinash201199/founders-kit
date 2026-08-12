@@ -41,6 +41,24 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://conquesta.io">conquesta.io</a></td>
 		</tr>
 		<tr>
+			<td>GetAppNiche</td>
+			<td>App Store Intelligence / ASO</td>
+			<td>iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.</td>
+			<td>iOS app founders, indie developers, and app marketers</td>
+			<td>Freemium</td>
+			<td><a href="https://getappniche.com/">getappniche.com</a></td>
+		</tr>
+
+		<tr>
+			<td>Micro-SaaS Runway Price Floor Calculator</td>
+			<td>Founder Tools</td>
+			<td>Browser calculator for estimating a micro-SaaS price floor, break-even customers, and runway gap.</td>
+			<td>Bootstrapped micro-SaaS founders and solo operators</td>
+			<td>Free</td>
+			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
+		</tr>
+
+		<tr>
 			<td>Mydentify</td>
 			<td>Product Discovery</td>
 			<td>Helps people discover and compare products by what they want to accomplish, using public product evidence.</td>
