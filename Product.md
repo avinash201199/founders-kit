@@ -57,6 +57,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free</td>
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
+		<tr>
+			<td>IdeaHunter</td>
+			<td>AI / Founder Tools</td>
+			<td>AI startup idea research and validation using public demand signals and market evidence.</td>
+			<td>Solo founders, indie hackers, and micro-SaaS builders</td>
+			<td>Freemium</td>
+			<td><a href="https://ideahunter.today">ideahunter.today</a></td>
+		</tr>
 
 	</tbody>
 </table>
