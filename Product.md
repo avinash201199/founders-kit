@@ -58,5 +58,15 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
 
-	</tbody>
+	
+<tr>
+<td>videos.social</td>
+<td>AI / Marketing</td>
+<td>Turn blogs, PDFs, and prompts into editable faceless videos.</td>
+<td>Creators and marketers who need blog-to-video they can edit before render</td>
+<td>Freemium</td>
+<td><a href="https://videos.social">videos.social</a></td>
+</tr>
+
+</tbody>
 </table>
