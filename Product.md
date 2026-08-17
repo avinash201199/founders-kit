@@ -43,7 +43,7 @@ Add new products as a new table row at the end of the tbody section, below the p
 		<tr>
 			<td>UIZZE</td>
 			<td>Design / Developer Tools</td>
-			<td>Browse public web and iOS UI references, then connect paid agent tools when you need them.</td>
+			<td>Free anti-ui-slop Skill and no-account preview for coding agents; full UIZZE adds live research across 800,000+ real web and iOS screens, design contracts, validation, audits, and rendered critique.</td>
 			<td>Designers and developers using coding agents</td>
 			<td>Free / Paid</td>
 			<td><a href="https://uizze.com/mobbin-alternative">uizze.com/mobbin-alternative</a></td>
