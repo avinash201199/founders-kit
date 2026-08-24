@@ -57,6 +57,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free</td>
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
+		<tr>
+			<td>Nozzio</td>
+			<td>Wedding Planning SaaS</td>
+			<td>One connected workspace for guests, RSVP, seating, budget, tasks, vendors, collaborators, and a public wedding website.</td>
+			<td>Engaged couples and wedding planning collaborators</td>
+			<td>Freemium</td>
+			<td><a href="https://nozzio.com">nozzio.com</a></td>
+		</tr>
 
 	</tbody>
 </table>
