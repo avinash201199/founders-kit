@@ -58,5 +58,15 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
 
+
+		<tr>
+			<td>All Tools Verse</td>
+			<td>Developer Tools</td>
+			<td>Searchable collection of browser-based tools for development, files, images, text, data, and everyday tasks.</td>
+			<td>Developers, creators, analysts, and general web users</td>
+			<td>Free</td>
+			<td><a href="https://alltoolsverse.com/">alltoolsverse.com</a></td>
+		</tr>
+
 	</tbody>
 </table>
