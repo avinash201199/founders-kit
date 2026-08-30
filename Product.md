@@ -57,6 +57,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free</td>
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
+		<tr>
+			<td>Agent QA</td>
+			<td>Developer Tools / Testing</td>
+			<td>Runs YAML-defined tests for AI agents across models, browsers, and devices.</td>
+			<td>Developers and QA teams evaluating AI agents</td>
+			<td>No Agent QA fee; provider costs may apply</td>
+			<td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
+		</tr>
 
 	</tbody>
 </table>
