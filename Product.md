@@ -57,6 +57,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free</td>
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
+		<tr>
+			<td>Public-Path Evidence Audit Starter</td>
+			<td>Website QA / Founder Tools</td>
+			<td>Open-source worksheet and GitHub Action for recording reproducible public-path launch checks across up to five routes.</td>
+			<td>Founders, product managers, agencies, and developers validating public conversion paths</td>
+			<td>Free</td>
+			<td><a href="https://github.com/Allura-Gensin/public-path-evidence-audit-starter">github.com/Allura-Gensin/public-path-evidence-audit-starter</a></td>
+		</tr>
 
 	</tbody>
 </table>
