@@ -57,6 +57,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Free</td>
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
+		<tr>
+			<td>LLM Pulse</td>
+			<td>AI Search Analytics / GEO</td>
+			<td>AI search analytics for monitoring brand mentions, citations, sentiment, and competitor share of voice.</td>
+			<td>SEO, AEO, marketing, and brand teams</td>
+			<td>Paid / 14-day free trial</td>
+			<td><a href="https://llmpulse.ai/">llmpulse.ai</a></td>
+		</tr>
 
 	</tbody>
 </table>
