@@ -64,6 +64,12 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">micro-saas-runway-price-floor-calculator.vercel.app</a></td>
 		</tr>
 		<tr>
+			<td>IdeaHunter</td>
+			<td>AI / Founder Tools</td>
+			<td>AI startup idea research and validation using public demand signals and market evidence.</td>
+			<td>Solo founders, indie hackers, and micro-SaaS builders</td>
+			<td>Freemium</td>
+			<td><a href="https://ideahunter.today">ideahunter.today</a></td>
 			<td>UIZZE</td>
 			<td>Design / Developer Tools</td>
 			<td>Free MIT anti-ui-slop Skill and conservative GitHub Action for coding agents; optional authenticated UIZZE MCP provides focused UI references and hosted design materials grounded in 800,000+ real web and iOS screens.</td>
