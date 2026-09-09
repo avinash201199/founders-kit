@@ -266,6 +266,7 @@ This collection includes:
 - [Beginners Guide to SEO](https://www.beginnersguideto.seo/)
 - [100+ Growth Tactics](https://www.100growthtactics.com/)
 - [Where Does Growth Come From?](https://www.wheredoesgrowthcomefrom.com/)
+- [How to Check if ChatGPT Mentions Your Brand — SearchD](https://searchd.ai/answers/how-to-check-if-chatgpt-mentions-your-brand) - A manual workflow for selecting buyer questions and recording brand mentions, competitors, cited sources, and session conditions.
 
 ### Hiring Resources
 - [Founder Library About Hiring](https://www.founderlibrary.com/hiring)
