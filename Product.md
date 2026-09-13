@@ -104,5 +104,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Freemium</td>
 <td><a href="https://gptimage2.asia/">gptimage2.asia</a></td>
 </tr>
+<tr>
+<td>YYLO</td>
+<td>AI / Developer Tools</td>
+<td>Open-source CLI that orchestrates AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel git worktrees with a Kanban task ledger.</td>
+<td>Founders and developers building with AI agents</td>
+<td>Free (open source)</td>
+<td><a href="https://yylo.dev">yylo.dev</a></td>
+</tr>
 </tbody>
 </table>
