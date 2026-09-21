@@ -104,5 +104,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Freemium</td>
 <td><a href="https://gptimage2.asia/">gptimage2.asia</a></td>
 </tr>
+<tr>
+<td>MLUE</td>
+<td>Creator Tools / Link-in-Bio</td>
+<td>Creator link-in-bio pages and a workspace for organizing links, content, and contact paths.</td>
+<td>Creators and brands</td>
+<td>Freemium</td>
+<td><a href="https://mlue.cn/">mlue.cn</a></td>
+</tr>
 </tbody>
 </table>
