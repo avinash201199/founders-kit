@@ -104,5 +104,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Freemium</td>
 <td><a href="https://gptimage2.asia/">gptimage2.asia</a></td>
 </tr>
+<tr>
+<td>BusinessOS</td>
+<td>Business Operating System / Invoicing &amp; Accounting</td>
+<td>Encrypted, offline-first invoicing and accounting for freelancers and small businesses. Voice-to-invoice in 3 seconds, WhatsApp send, 40+ built-in business calculators, multi-region tax handling (VAT, GST, ZATCA, sales tax).</td>
+<td>Freelancers, agencies, small business owners, and solo founders</td>
+<td>Free during limited early access</td>
+<td><a href="https://businessos.biz">businessos.biz</a></td>
+</tr>
 </tbody>
 </table>
