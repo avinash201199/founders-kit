@@ -758,6 +758,7 @@ This collection includes:
 - [Crashlytics](https://firebase.google.com/products/crashlytics)
 - [UptimeRobot](https://uptimerobot.com/)
 - [Datadog](https://www.datadoghq.com/)
+- [Fivenines](https://fivenines.io/)
 
 ---
 
