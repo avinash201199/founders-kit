@@ -650,6 +650,7 @@ This collection includes:
 - [BuzzSumo](https://buzzsumo.com/)
 - [QuickTwit](https://www.quicktwit.com/)
 - [SocialBlade](https://socialblade.com/)
+- [NakupSladilcev.si engagement rate calculator (Slovenian)](https://nakupsladilcev.si/tools/engagement-rate) - Free manual Instagram/TikTok calculator: likes plus comments divided by followers, reach, or views; no signup.
 - [Tubebuddy](https://www.tubebuddy.com/)
 
 ### Marketing Automation
