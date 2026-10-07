@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>FirstPass</td>
+<td>Marketing / Conversion</td>
+<td>Provides an AI-operated, evidence-checked SaaS homepage teardown with prioritized findings and a hero rewrite.</td>
+<td>Newly launched SaaS founders</td>
+<td>One-time US$49</td>
+<td><a href="https://mmxfq.github.io/firstpass-site/">mmxfq.github.io/firstpass-site</a></td>
+</tr>
 </tbody>
 </table>
