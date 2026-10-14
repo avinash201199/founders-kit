@@ -115,10 +115,10 @@ Add new products as a new table row at the end of the tbody section, below the p
 <tr>
   <td>Your No.1</td>
   <td>Product Discovery</td>
-  <td>Discover projects and suggest new ones anonymously in five languages (free public pilot).</td>
-  <td>People discovering projects and makers sharing them</td>
-  <td>Free</td>
-  <td><a href="https://yourno1.com">yourno1.com</a></td>
+  <td>Browse and search project profiles in five languages, then visit links to their original sources.</td>
+  <td>People discovering projects</td>
+  <td>Free to browse</td>
+  <td><a href="https://gfy0.github.io/gfy0/">Your No.1</a></td>
 </tr>
 </tbody>
 </table>
