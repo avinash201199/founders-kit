@@ -322,6 +322,7 @@ This collection includes:
 - [BetaPage](https://www.betapage.co/)
 - [Product Hunt](https://www.producthunt.com/)
 - [Betalist](https://betalist.com/)
+- [MEDIAPRONET](https://mediapronet.com/)
 
 ---
 
