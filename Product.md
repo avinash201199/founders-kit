@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>WhoOwnsWhat.xyz</td>
+<td>Founder Tools / Developer Tools</td>
+<td>Tracks shared project costs and asset ownership; MCP access for AI developer workflows is planned.</td>
+<td>Co-founders, indie hackers, and hackathon teams</td>
+<td>Free sheet; paid plan planned</td>
+<td><a href="https://whoownswhat.xyz/">whoownswhat.xyz</a></td>
+</tr>
 </tbody>
 </table>
