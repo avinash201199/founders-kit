@@ -115,9 +115,9 @@ Add new products as a new table row at the end of the tbody section, below the p
 <tr>
 <td>WhoOwnsWhat.xyz</td>
 <td>Founder Tools / Developer Tools</td>
-<td>Tracks shared project costs and asset ownership; MCP access for AI developer workflows is planned.</td>
+<td>Tracks shared project costs and asset ownership; Live MCP access for AI developer workflows.</td>
 <td>Co-founders, indie hackers, and hackathon teams</td>
-<td>Free sheet; paid plan planned</td>
+<td>Free plan and sheet; paid plan planned</td>
 <td><a href="https://whoownswhat.xyz/">whoownswhat.xyz</a></td>
 </tr>
 </tbody>
