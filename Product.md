@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>Pulse</td>
+<td>Market Research / AI</td>
+<td>AI-moderated market research platform that runs customer interviews at scale.</td>
+<td>Founders, product and insights teams</td>
+<td>Paid plans, free trial available</td>
+<td><a href="https://pulsecorp.co">pulsecorp.co</a></td>
+</tr>
 </tbody>
 </table>
