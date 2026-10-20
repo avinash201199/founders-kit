@@ -118,5 +118,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Freemium</td>
 <td><a href="https://zyta.dev">zyta.dev</a></td>
 </tr>
+<tr>
+<td>Datacircle</td>
+<td>Developer Tools / Data</td>
+<td>Every GTM API we find, one row for each plan of each call: what it costs per 1,000, what it charges when it finds nothing, its rate limits, its speed and the fields it returns.</td>
+<td>GTM API providers, and the teams who buy from them.</td>
+<td>Free</td>
+<td><a href="https://datacircle.dev/">datacircle.dev</a></td>
+</tr>
 </tbody>
 </table>
