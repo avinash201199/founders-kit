@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>SnapDataHub</td>
+<td>Marketing / Snapchat Analytics</td>
+<td>Public Snapchat creator stats, with a free Spotlight earnings calculator and Creator Rewards eligibility checker.</td>
+<td>Snapchat creators, brands and agencies</td>
+<td>Freemium</td>
+<td><a href="https://snapdatahub.com/">snapdatahub.com</a></td>
+</tr>
 </tbody>
 </table>
