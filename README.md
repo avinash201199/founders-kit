@@ -648,9 +648,9 @@ This collection includes:
 ### Social Media
 - [Buffer](https://buffer.com/)
 - [BuzzSumo](https://buzzsumo.com/)
-- [QuickTwit](https://www.quicktwit.com/)
 - [SocialBlade](https://socialblade.com/)
 - [Tubebuddy](https://www.tubebuddy.com/)
+- [twtData](https://twtdata.com/)
 
 ### Marketing Automation
 - [HubSpot for Startups](https://www.hubspot.com/startups)
