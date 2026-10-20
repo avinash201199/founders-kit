@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>Datacircle</td>
+<td>Developer Tools / Data</td>
+<td>Every GTM API we find, one row for each plan of each call: what it costs per 1,000, what it charges when it finds nothing, its rate limits, its speed and the fields it returns.</td>
+<td>GTM API providers, and the teams who buy from them.</td>
+<td>Free</td>
+<td><a href="https://datacircle.dev/">datacircle.dev</a></td>
+</tr>
 </tbody>
 </table>
