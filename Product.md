@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>IGDataHub</td>
+<td>Marketing / Instagram Analytics</td>
+<td>Records Instagram follower counts over time and compares any two of the 2,800+ profiles it tracks.</td>
+<td>Marketers, journalists and researchers</td>
+<td>Freemium</td>
+<td><a href="https://igdatahub.com/">igdatahub.com</a></td>
+</tr>
 </tbody>
 </table>
