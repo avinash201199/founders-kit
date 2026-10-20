@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>TKMetrics</td>
+<td>Marketing / TikTok Analytics</td>
+<td>Finds TikTok creators by average views and engagement rate on their recent videos; free TikTok money calculator.</td>
+<td>Brands, agencies and TikTok creators</td>
+<td>Freemium</td>
+<td><a href="https://tkmetrics.com/">tkmetrics.com</a></td>
+</tr>
 </tbody>
 </table>
