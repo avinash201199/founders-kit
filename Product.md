@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>day3</td>
+<td>Email Marketing / Transactional Email</td>
+<td>Newsletters and transactional email billed by emails sent, with unlimited subscribers, a REST API and an MCP server.</td>
+<td>Small software teams, startups and indie developers</td>
+<td>Freemium</td>
+<td><a href="https://day3.app">day3.app</a></td>
+</tr>
 </tbody>
 </table>
