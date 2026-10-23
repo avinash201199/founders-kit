@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>BatchSet</td>
+<td>Image Tools</td>
+<td>Convert, compress and resize images in bulk inside the browser, with no upload to a server.</td>
+<td>Ecommerce sellers, marketers and developers</td>
+<td>Freemium</td>
+<td><a href="https://batchset.com/">batchset.com</a></td>
+</tr>
 </tbody>
 </table>
