@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>deed.page</td>
+<td>Developer Tools / Hosting</td>
+<td>Publishes static HTML pages and folders with one HTTP PUT and returns a public HTTPS link.</td>
+<td>Founders, developers, and AI coding agents sharing landing pages, prototypes, and reports</td>
+<td>Free / Paid</td>
+<td><a href="https://deed.page">deed.page</a></td>
+</tr>
 </tbody>
 </table>
