@@ -874,6 +874,15 @@ This collection includes:
 - [Remote for Startups](https://remote.com/startups)
 - [Pareto Security](https://paretosecurity.com/pricing)
 
+
+### Open program directories and verification data
+
+The program links above lead to individual providers. For comparing offers or checking what changed, these open catalogs can be useful starting points. A directory entry is **not** a guarantee of credit availability or eligibility; confirm terms with the provider before applying.
+
+- [Sourcey — startup credits registry](https://sourcey.com/startup-credits) — evidence-backed offer records with source citations, downloadable CC BY 4.0 data, a public API and change feed.
+- [StartupPerks Open Dataset](https://github.com/yumaheymans/startupperks-open-dataset) — a periodically regenerated JSON/CSV dataset of startup perks, with source links to providers.
+- [Free Startup Credits](https://github.com/tayyabakmal1/free-startup-credits) — eligibility-focused entries with verification dates and direct links to original program terms.
+
 ---
 
 ## Places to Share & Promote
