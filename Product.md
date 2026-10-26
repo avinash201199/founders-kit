@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>WishKit</td>
+<td>SaaS / Developer Tools</td>
+<td>In-app feature request and feedback board where users submit and vote on features.</td>
+<td>iOS, macOS, visionOS and web app developers</td>
+<td>Freemium</td>
+<td><a href="https://www.wishkit.io">wishkit.io</a></td>
+</tr>
 </tbody>
 </table>
