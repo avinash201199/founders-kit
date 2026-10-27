@@ -785,6 +785,7 @@ This collection includes:
 
 ### Tech Stack
 - [The Ultimate SaaS Tech Stack Database](https://www.theimpossiblequiz.com/)
+- [StackScan](https://www.stackscan.com/)
 
 ### MVP Tools
 - [An MVP is Not a Cheaper Product - Steve Blank](https://www.steveblank.com/)
