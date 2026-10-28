@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>RadarMakers</td>
+<td>Directory of indie products</td>
+<td>Free launch platform where indie makers list products, reviewed by hand, and other makers can rate them.</td>
+<td>Indie makers and small teams launching a product</td>
+<td>Free</td>
+<td><a href="https://radarmakers.com">radarmakers.com</a></td>
+</tr>
 </tbody>
 </table>
