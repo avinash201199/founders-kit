@@ -112,5 +112,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>No Agent QA fee; provider costs may apply</td>
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
+<tr>
+<td>pitchboom.io</td>
+<td>AI Video / Marketing</td>
+<td>Turns a product URL or a short brief into voiced motion-design video ads in 16:9, 9:16, 1:1, 4:5 and 3:4.</td>
+<td>Founders, SaaS and e-commerce teams, marketers and agencies</td>
+<td>Freemium (500 free credits at sign-up, then from €30/month)</td>
+<td><a href="https://pitchboom.io">pitchboom.io</a></td>
+</tr>
 </tbody>
 </table>
