@@ -102,10 +102,9 @@ This collection includes:
 
 - [Paul Graham's Essays](https://paulgraham.com/)
 - [Sam Altman's Blog](https://blog.samaltman.com/)
-- [Startup Library](https://www.startuplibrary.io/)
 - [Founder Resources](https://www.founderresources.com/)
 - [Startup Handbook](https://www.startuphandbook.co/)
-- [The Founder Library - NFX](https://www.nfx.com/founder-library)
+- [The Founder Library - NFX](https://www.nfx.com/library)
 - [Startup Notes](http://startupnotes.org/#page/1)
 
 ### Books
@@ -121,20 +120,17 @@ This collection includes:
 
 #### Product & Growth
 - [Hooked: How to Build Habit-Forming Products](https://www.hookedbook.com/)
-- [Inspired: How to Create Tech Products Customers Love - Marty Cagan](https://www.inspiredbook.com/)
+- [Inspired: How to Create Tech Products Customers Love - Marty Cagan](https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/)
 - [Empowered: Ordinary People, Extraordinary Products - Marty Cagan](https://www.empoweredbook.com/)
 - [Traction: A Startup Guide to Getting Customers](https://www.tractionbook.com/)
 - [The Cold Start Problem](https://www.coldstartproblem.com/)
 
 #### Business & Strategy
-- [Make - Bootstrapper's Handbook](https://www.makebootstrapper.com/)
-- [The Founder's Dilemmas - Noam Wasserman](https://www.foundersdilemmas.com/)
 - [Business Model Generation - Alexander Osterwalder](https://www.strategyzer.com/)
 - [Hello, Startup](https://www.hello-startup.net/)
 
 #### Fundraising & Investment
 - [Venture Deals - Brad Feld and Jason Mendelson](https://venturedeals.com/)
-- [Venture Capitalists at Work - Tarang Shah and Sheetal Shah](https://www.venturecapitalistsatwork.com/)
 
 #### Personal Development
 - [Atomic Habits - James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
@@ -160,7 +156,6 @@ This collection includes:
 
 #### Additional Resources
 - [Quotes / Lessons / Videos for Entrepreneurs](http://www.blockshelf.com/)
-- [Power Books for Entrepreneurs](http://powerbooks.strikingly.com/)
 
 ---
 
@@ -168,25 +163,19 @@ This collection includes:
 
 ### Online Courses
 - [How to Start a Startup](https://startupclass.co/course/how-to-start-a-startup)
-- [Startup School 2018 - Y Combinator](https://www.ycombinator.com/startupschool/2018)
-- [Startup School 2019 - Y Combinator](https://www.ycombinator.com/startupschool/2019)
 - [The Lean Launchpad - Steve Blank (Udacity)](https://www.udacity.com/course/ep245)
 - [Startup Engineering (Coursera)](https://www.coursera.org/course/startup)
 - [Developing Innovative Ideas for New Companies (Coursera)](https://www.coursera.org/course/innovativeideas)
-- [Startup Class - Sam Altman](https://startupclass.samaltman.com)
 
 ### Video Resources
 - [Mind The Product](https://www.mindtheproduct.com/)
-- [DevTube](https://www.devtube.com/)
 - [PMFlix](https://www.pmflix.com/)
 - [Startup Talks](http://startuptalks.tv/)
-- [Startup Movies](http://startupmovies.be-genius.com/)
 - [Google Talks](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [500 Startups #500distro Conference Videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
 
 ### Must-Watch Videos
 - [Steve Jobs' Vision of the World](https://www.youtube.com/watch?v=UvEiSa6_EPA)
-- [This Startup Founder Filmed Her Struggles](https://giveit100.com/@100/9b924t)
 - [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 - [Marc Andreessen & Dave McClure: The Future of Startups](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
@@ -205,15 +194,9 @@ This collection includes:
 - [Masters of Scale](https://mastersofscale.com/)
 - [Inside Intercom](https://www.intercom.com/blog/podcasts/)
 - [This is Product Management](https://www.thisisproductmanagement.com/)
-- [Product Led Podcast](https://www.productledpodcast.com/)
-- [FYI - For Your Innovation](https://www.fyiforyourinnovation.com/)
-- [Produto pelo Mundo](https://www.produtopelomundo.com/)
 - [Mulheres de Produto](https://www.mulheresdeproduto.com/)
 - [Storicast](https://www.storicast.com/)
-- [Retention](https://www.retentionpodcast.com/)
 - [Product Gurus](https://www.productgurus.com/)
-- [Product Backstage](https://www.productbackstage.com/)
-- [PM3 Talks](https://www.pm3talks.com/)
 - [Movimento UX](https://www.movimentoux.com/)
 
 ---
@@ -229,7 +212,6 @@ This collection includes:
 
 ### Design Inspiration
 - [SaaS Pages](https://www.saaspages.com/)
-- [SaaS Frame](https://www.saasframe.com/)
 - [Mobbin](https://www.mobbin.com/)
 - [Page Flows](https://pageflows.com/)
 - [Page Collective](https://pagecollective.com/)
@@ -239,21 +221,11 @@ This collection includes:
 - [UI-Cloud](https://www.ui-cloud.com/)
 - [Pttrns](https://pttrns.com/)
 
-### Startup Ideas & Stories
-- [Start Story](https://www.startstory.io/)
-- [Test Your Startup Idea](https://www.testyourstartupidea.com/)
-- [How to Find the Right Startup Idea](https://www.howtofindtherightstartupidea.com/)
-- [The Artist and the Innovator](https://www.theartistandtheinnovator.com/)
-- [Don't Start with an MVP](https://www.dontstartwithanmvp.com/)
-- [Software Alternatives and Reviews](https://www.softwarealternativesandreviews.com/)
-- [Product Checklist](https://www.productchecklist.com/)
-
 ---
 
 ## Company Building
 
 ### Naming
-- [WSGR Startup Basics: How to Name Your Startup](https://www.wsgr.com/en/insights/startup-basics-how-to-name-your-startup.html)
 - [Panabee](https://panabee.com/)
 - [NameMesh](https://www.namemesh.com/)
 - [Naminum](https://www.naminum.com/)
@@ -263,17 +235,8 @@ This collection includes:
 
 ### Co-founders
 - [Founders and Co-founders by Startups.com](https://www.startups.com/)
-- [How to Find a Co-Founder](https://www.howtofindacofounder.com/)
-- [How to Split Equity Among Co-founders](https://www.howtosplitco-founderequity.com/)
-
-### KPIs and OKRs
-- [Curated KPIs and OKRs List](https://www.kpisandokrs.com/)
 
 ### Growth Resources
-- [Growthhacklist](https://www.growthhacklist.com/)
-- [Beginners Guide to SEO](https://www.beginnersguideto.seo/)
-- [100+ Growth Tactics](https://www.100growthtactics.com/)
-- [Where Does Growth Come From?](https://www.wheredoesgrowthcomefrom.com/)
 - [How to Check if ChatGPT Mentions Your Brand — SearchD](https://searchd.ai/answers/how-to-check-if-chatgpt-mentions-your-brand) - A manual workflow for selecting buyer questions and recording brand mentions, competitors, cited sources, and session conditions.
 
 ### Hiring Resources
@@ -284,24 +247,19 @@ This collection includes:
 
 ## Customer Development
 
-### Resources
-- [Curated List of Customer Development Resources](https://www.customerdevelopmentresources.com/)
-- [Customer Forces Canvas](https://www.customerforcescanvas.com/)
-
 ### Customer Discovery
 - [The Mom Test](https://www.themomtest.com/)
 - [Empathy Map](https://www.empathymap.com/)
 
 ### Product-Market Fit
-- [Fundamentals of Product-Market Fit](https://www.fundamentalsofproductmarketfit.com/)
-- [Superhuman Article on PMF](https://www.superhuman.com/article/)
+- [Superhuman Article on PMF](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 
 ---
 
 ## Incubators & Accelerators
 
 - [Y Combinator](https://www.ycombinator.com/)
-- [500 Startups](https://www.500startups.com/)
+- [500 Startups](https://500.co/)
 - [Plug and Play](https://www.plugandplaytechcenter.com/)
 - [accelerator.directory](https://accelerator.directory/)
 
@@ -315,13 +273,13 @@ This collection includes:
 - [r/SaaS](https://www.reddit.com/r/SaaS/)
 - [Indie Hackers](https://www.indiehackers.com/)
 - [AngelList](https://www.angellist.com/)
-- [The Hive List](https://www.thehivelist.com/)
 
 ### Places to Post Your Startup
 - [Curated List](https://www.placestopostyourstartup.com/)
 - [BetaPage](https://www.betapage.co/)
 - [Product Hunt](https://www.producthunt.com/)
 - [Betalist](https://betalist.com/)
+- [MEDIAPRONET](https://mediapronet.com/)
 
 ---
 
@@ -330,27 +288,22 @@ This collection includes:
 ### Guides & Resources
 - [A Guide to Seed Fundraising - Y Combinator](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising)
 - [Investopedia Article](https://www.investopedia.com/)
-- [Chagency Get Startup Funding](https://www.chagency.co.uk/getstartupfunding/)
 - [How to Raise Money](https://www.howtoraise.money/)
 - [Venture Deals](https://venturedeals.com/)
-- [Bridge Rounds vs Series Rounds](https://www.bridgeroundsvsseriesrounds.com/)
 - [How Startup Funding Works - Paul Graham](https://www.paulgraham.com/funding.html)
 - [IPOs and Beyond - a16z](https://a16z.com/ipos-and-beyond-a-guide-to-exit-options-for-companies)
-- [Options vs Cash - Dan Luu](https://danluu.com/options-vs-cash)
+- [Options vs Cash - Dan Luu](https://danluu.com/startup-options/)
 - [How To Invest In Startups - Sam Altman](https://blog.samaltman.com/how-to-invest-in-startups)
-
-### Tools
-- [Startup Financing Calculator](https://www.startupfinancingcalculator.com/)
 
 ### Angel Directories
 - [First Round Capital](https://firstround.com/)
 - [NFX List](https://www.nfx.com/)
+- [AngelBacked](https://www.angelbacked.co/)
 
 ### Pitch Decks
 - [Cirrus Insight Deck](https://www.cirrusinsight.com/)
 - [Chagency Deck](https://www.chagency.co.uk/)
-- [OpenDeck](https://www.opendeck.co/)
-- [30 Legendary Startup Pitch Decks](https://slidebean.com/blog/30-legendary-startup-pitch-decks)
+- [30 Legendary Startup Pitch Decks](https://slidebean.com/pitch-deck-examples)
 
 ---
 
@@ -358,7 +311,6 @@ This collection includes:
 
 ### Website Builders
 - [Unicorn Platform](https://unicornplatform.com/)
-- [ProductHunt Ship](https://www.producthunt.com/ship)
 - [Shopify](https://www.shopify.com/)
 - [Webflow](https://webflow.com/)
 - [Weblium](https://weblium.com/)
@@ -382,6 +334,7 @@ This collection includes:
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Heroku](https://www.heroku.com/)
 - [Amazon AWS](https://aws.amazon.com/)
+- [Prisma Compute](https://www.prisma.io/compute)
 
 ### Lead Generation
 - [Proof](https://useproof.com/)
@@ -434,6 +387,7 @@ This collection includes:
 - [EzGIF](https://ezgif.com/)
 - [BannerSnack](https://www.bannersnack.com/)
 - [Screely](https://screely.com/)
+- [BudgetPixel Design Templates](https://budgetpixel.com/design/templates)
 
 ### UI Libraries
 - [Ant.design](https://ant.design/)
@@ -460,7 +414,6 @@ This collection includes:
 - [Visme](https://www.visme.co/)
 
 ### Design Resources
-- [Undesign](https://undesign.io/)
 - [Dribbble](https://dribbble.com/)
 - [Evernote Design](https://www.evernote.design/)
 
@@ -536,6 +489,7 @@ This collection includes:
 ### Backend Services
 - [Airtable](https://airtable.com/)
 - [Firebase](https://firebase.google.com/)
+- [Prisma Postgres](https://www.prisma.io/postgres)
 - [Supabase](https://supabase.com/)
 
 ---
@@ -546,7 +500,7 @@ This collection includes:
 - [Stripe](https://stripe.com/)
 - [PayPal](https://www.paypal.com/)
 - [Adyen](https://www.adyen.com/)
-- [PagarMe](https://pagarme.com/)
+- [PagarMe](https://pagar.me/)
 - [Square](https://squareup.com/)
 - [Bolt](https://www.bolt.com/)
 - [Paymob](https://www.paymob.com/)
@@ -581,12 +535,10 @@ This collection includes:
 ### Newsletter Platforms
 - [Buttondown](https://buttondown.email/)
 - [Substack](https://substack.com/)
-- [Revue](https://www.revue.co/)
 
 ### Email Design
 - [Parcel](https://useparcel.com/)
 - [Really Good Emails](https://www.reallygoodemails.com/)
-- [Email Copy from Great Companies](https://www.emailcopyfromgreatcompanies.com/)
 
 ### Blogging
 - [Hashnode](https://hashnode.com/)
@@ -655,17 +607,13 @@ This collection includes:
 ### Marketing Automation
 - [HubSpot for Startups](https://www.hubspot.com/startups)
 - [Sumo](https://sumo.com/)
-- [Viral Loops](https://www.viralloops.com/)
+- [Viral Loops](https://viral-loops.com/)
 - [Customer.io](https://customer.io/)
-
-### Marketing Resources
-- [150 Marketing Tools](https://www.150marketingtools.com/)
 
 ---
 
 ## User Feedback
 
-- [Feedback Lane](https://feedbacklane.io/)
 - [Upvoty](https://upvoty.com/)
 - [Headway](https://headwayapp.co/)
 - [Feedbear](https://feedbear.com/)
@@ -728,8 +676,6 @@ This collection includes:
 - [Jira](https://www.atlassian.com/software/jira)
 - [Monday](https://monday.com/)
 - [Taskade](https://taskade.com/)
-- [Sendtask](https://sendtask.com/)
-- [Blossom](https://blossom.io/)
 
 ---
 
@@ -747,6 +693,7 @@ This collection includes:
 - [Idevaffiliate](https://www.idevaffiliate.com/)
 - [Impact](https://impact.com/)
 - [Partnerstack](https://partnerstack.com/)
+- [Power CM Partners](https://partners.powercm-software.com/) - Software partner network for tracked campaigns and commissions on attributed verified sales
 - [Friendbuy](https://www.friendbuy.com/)
 
 ---
@@ -758,6 +705,8 @@ This collection includes:
 - [Crashlytics](https://firebase.google.com/products/crashlytics)
 - [UptimeRobot](https://uptimerobot.com/)
 - [Datadog](https://www.datadoghq.com/)
+- [SolidPing](https://www.solidping.io/)
+- [Fivenines](https://fivenines.io/)
 
 ---
 
@@ -765,7 +714,7 @@ This collection includes:
 
 - [Wisestamp](https://www.wisestamp.com/)
 - [Uploadcare](https://uploadcare.com/)
-- [Brightback](https://www.brightback.com/)
+- [Brightback](https://www.chargebee.com/growth/retention/)
 - [Navattic](https://www.navattic.com/)
 - [Teachable](https://teachable.com/)
 - [Linktree](https://linktr.ee/)
@@ -782,9 +731,6 @@ This collection includes:
 - [Aytm](https://www.aytm.com/)
 - [Similar Web](https://www.similarweb.com/)
 - [Compass](https://www.compass.com/)
-
-### Tech Stack
-- [The Ultimate SaaS Tech Stack Database](https://www.theimpossiblequiz.com/)
 
 ### MVP Tools
 - [An MVP is Not a Cheaper Product - Steve Blank](https://www.steveblank.com/)
@@ -817,7 +763,6 @@ This collection includes:
 ### Business Suites
 - [Zoho One for Startups](https://www.zoho.com/one/startups/)
 - [Freshworks for Startups](https://www.freshworks.com/company/partners/startup-program/)
-- [DeepSource Startup Program](https://deepsource.io/startup-program/)
 
 ### Customer Engagement
 - [Intercom Early Stage Program](https://www.intercom.com/early-stage)
@@ -841,7 +786,6 @@ This collection includes:
 - [Exotel for Startups [INDIA]](https://exotel.com/cloud-telephony-for-startups/)
 - [MSG91 for Startups [INDIA]](https://msg91.com/in/startups/)
 - [Dialpad for Startups](https://www.dialpad.com/startups/)
-- [Agora for Startups](https://www.agora.io/en/agora-for-startups/)
 
 ### Payments
 - [Razorpay Zero Plan [INDIA]](https://docs.google.com/forms/d/e/1FAIpQLScIxDEITVh8no-_tFtaakI8Jql-Q9SXWEJ_iKW16DVWqfbeBw/viewform)
@@ -849,12 +793,6 @@ This collection includes:
 
 ### Bug Tracking
 - [Instabug for Startups](https://instabug.com/startups)
-
-### Edge Computing
-- [StackPath Propel Startup Program](https://www.stackpath.com/resources/propel-startup-program/)
-
-### Incident Management
-- [Zenduty Early Stage Startup Program](https://www.zenduty.com/early-stage-startup-program/)
 
 ### Video
 - [Gumlet](https://www.gumlet.com/startups/)
@@ -944,10 +882,9 @@ This collection includes:
 - [A List Apart](http://alistapart.com/about/contribute)
 - [The Next Web](https://thenextweb.com/about/#contact)
 - [Developer Tech](https://www.developer-tech.com/write-for-us)
-- [ProgrammableWeb](https://www.programmableweb.com/faq#Write_For_PW)
-- [Hakin9](https://hakin9.org/blog)
+- [Hakin9](https://hakin9.org/)
 - [DataCamp Community](https://www.datacamp.com/community)
-- [EchoJS](http://www.echojs.com/)
+- [EchoJS](https://www.echojs.com/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [daily.dev Blog](https://daily.dev/blog)
 
@@ -990,7 +927,6 @@ This collection includes:
 - [Launch Lister](https://launchlister.com/)
 - [Vator.tv](http://vator.tv/)
 - [NextBigWhat](https://www.nextbigwhat.com/)
-- [iamWire](http://www.iamwire.com/startups/user/register)
 - [SnapMunk](https://www.snapmunk.com/submit-your-startup)
 - [MicroStartups](https://www.microstartups.co/)
 - [Nibletz](http://www.nibletz.com/submit-startup)
@@ -1003,6 +939,7 @@ This collection includes:
 - [Launching Next](https://www.launchingnext.com/)
 - [Startup Ranking](https://www.startupranking.com/)
 - [AwesomeIndie](https://awesomeindie.com/)
+- [StarTap](https://startap.cc/) — Free directory where makers list websites and visitors support projects through a star-clicking game.
 
 ### Relevant Subreddits
 - [r/coding](https://www.reddit.com/r/coding/)
@@ -1045,11 +982,10 @@ This collection includes:
 
 ### Sam Altman
 - [Startup Advice, Briefly](http://blog.samaltman.com/startup-advice-briefly)
-- [Startup Playbook](https://blog.samaltman.com/startup-playbook)
+- [Startup Playbook](https://playbook.samaltman.com/)
 
 ### Product
 - [Retention is King](http://andrewchen.co/retention-is-king/)
-- [What Product Features Should I Focus On?](http://calacanis.com/2015/02/02/what-product-features-should-i-focus-on/)
 - [How This Founder Turned Slow Burn Rate into a Big Exit](http://firstround.com/review/This-Founder-Turned-a-Slow-Burn-Rate-into-a-Big-Exit/)
 - [The Illusion of Product/Market Fit for SaaS Companies](http://feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html)
 - [12 Things About Product-Market Fit - a16z](https://a16z.com/12-things-about-product-market-fit)
@@ -1058,25 +994,21 @@ This collection includes:
 - [Managing Growth & Delivering Magic](https://www.youtube.com/watch?v=s7O3_tRB5t4)
 - ["No Marketing" Isn't as Impressive as You Think](http://www.instigatorblog.com/no-marketing-isnt-as-impressive/2015/01/26/)
 - [Growth is Optional](http://www.coelevate.com/essays/growth-is-optional)
-- [The Hacker's Guide to User Acquisition](http://www.austenallred.com/the-hackers-guide-to-user-acquisition/)
 - [How to Solve the Cold-Start Problem for Social Products](http://andrewchen.co/2014/03/27/how-to-solve-the-cold-start-problem-for-social-products/)
 - [The Complete Guide to Product Qualified Leads](https://get.hull.io/complete-guide-pqls/chapter1/)
 - [Finding Sales Triggers - DigitalOcean](https://clearbit.com/books/data-driven-sales/sales-triggers)
 
-### Monetization
-- [When Should You Turn on Revenue?](http://calacanis.com/2015/02/07/when-should-you-turn-on-revenue-with-your-startup/)
-
 ### Hiring
 - [Focus on Building 10x Teams](https://avichal.wordpress.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/)
 - [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe)
-- [Gene Pool Engineering - Vinod Khosla](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+- [Gene Pool Engineering - Vinod Khosla](https://www.khoslaventures.com/posts/gene-pool-engineering-for-entrepreneurs)
 
 ### Mental Health
 - [Avoiding Burnout - HN Discussion](https://news.ycombinator.com/item?id=5630445)
 - [I Am Burned Out While Still in Learning Phase](https://news.ycombinator.com/item?id=7435601)
 
 ### Miscellaneous
-- [Individuals Matter - Dan Luu](https://danluu.com/individuals-matter)
+- [Individuals Matter - Dan Luu](https://danluu.com/people-matter/)
 
 ---
 
