@@ -536,6 +536,7 @@ This collection includes:
 ### Backend Services
 - [Airtable](https://airtable.com/)
 - [Firebase](https://firebase.google.com/)
+- [Nhost](https://nhost.io/)
 - [Supabase](https://supabase.com/)
 
 ---
