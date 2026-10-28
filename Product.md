@@ -57,14 +57,6 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td><a href="https://getappniche.com/">getappniche.com</a></td>
 </tr>
 <tr>
-<td>Micro-SaaS Runway Price Floor Calculator</td>
-<td>Founder Tools</td>
-<td>Calculator for estimating a micro-SaaS price floor, break-even customers, and runway gap.</td>
-<td>Bootstrapped SaaS founders and solo operators</td>
-<td>Free</td>
-<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">Website</a></td>
-</tr>
-<tr>
 <td>UIZZE</td>
 <td>Design / Developer Tools</td>
 <td>Tools and UI references for coding agents, including a GitHub Action and MCP powered by 800,000+ real web and iOS screens.</td>
@@ -105,6 +97,12 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td><a href="https://gptimage2.asia/">gptimage2.asia</a></td>
 </tr>
 <tr>
+<td>CRMlead</td>
+<td>SaaS / CRM</td>
+<td>Lead-focused CRM: drag-and-drop pipeline, a next action on every lead, emails attached to leads, online booking.</td>
+<td>Small businesses, freelancers and small sales teams</td>
+<td>Freemium</td>
+<td><a href="https://crmlead.io">crmlead.io</a></td>
 <td>Agent QA</td>
 <td>Developer Tools / Testing</td>
 <td>Runs YAML-defined tests for AI agents across models, browsers, and devices.</td>
@@ -119,6 +117,12 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Co-founders, indie hackers, and hackathon teams</td>
 <td>Free plan and sheet; paid plan planned</td>
 <td><a href="https://whoownswhat.xyz/">whoownswhat.xyz</a></td>
+<td>Zyta</td>
+<td>SaaS / Business Operations</td>
+<td>Operations workspace for Indian SMBs — GST invoices, work orders, inventory, and documents in one place, with guest-portal sharing and WhatsApp dispatch.</td>
+<td>Indian SMB owner-operators, field-service businesses, and agencies</td>
+<td>Freemium</td>
+<td><a href="https://zyta.dev">zyta.dev</a></td>
 </tr>
 </tbody>
 </table>
