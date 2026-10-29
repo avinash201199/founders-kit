@@ -118,5 +118,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Freemium</td>
 <td><a href="https://zyta.dev">zyta.dev</a></td>
 </tr>
+<tr>
+<td>RefVid</td>
+<td>AI / Video</td>
+<td>Upload 1–5 photos of a character or product once, then generate AI videos (Kling 4, Kling 3.0 Omni and other models) that keep it the same in every shot; templates for product ads, UGC and character series.</td>
+<td>Founders, ecommerce sellers, marketers and creators</td>
+<td>Freemium</td>
+<td><a href="https://refvid.com">refvid.com</a></td>
+</tr>
 </tbody>
 </table>
