@@ -220,6 +220,7 @@ This collection includes:
 - [UX Archive](https://uxarchive.com/)
 - [UI-Cloud](https://www.ui-cloud.com/)
 - [Pttrns](https://pttrns.com/)
+- [Pixlpin](https://pixlpin.com/)
 
 ---
 
