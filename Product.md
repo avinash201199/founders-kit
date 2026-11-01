@@ -118,5 +118,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Freemium</td>
 <td><a href="https://zyta.dev">zyta.dev</a></td>
 </tr>
+<tr>
+<td>OpenSparta</td>
+<td>SaaS / Marketing</td>
+<td>Telegram workspace for managing connected accounts and proxies, finding relevant conversations, and monitoring selected communities for buying requests.</td>
+<td>Marketing teams and agencies using Telegram</td>
+<td>Freemium; 14-day full-access trial; modules from $9/month</td>
+<td><a href="https://opensparta.com/en">opensparta.com</a></td>
+</tr>
 </tbody>
 </table>
