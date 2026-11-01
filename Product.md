@@ -118,5 +118,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Freemium</td>
 <td><a href="https://zyta.dev">zyta.dev</a></td>
 </tr>
+<tr>
+<td>Globatics</td>
+<td>SaaS / Web Analytics</td>
+<td>Real-time, cookieless-by-default web analytics on a live globe, with AI assistants as their own traffic channel.</td>
+<td>Website owners, SaaS founders, and agencies</td>
+<td>Paid: 5-day trial with no card, no permanent free plan</td>
+<td><a href="https://globatics.live">globatics.live</a></td>
+</tr>
 </tbody>
 </table>
