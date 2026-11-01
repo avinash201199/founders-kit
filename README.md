@@ -385,6 +385,7 @@ This collection includes:
 - [Snappa](https://snappa.com/)
 - [RemoveBg](https://remove.bg/)
 - [EzGIF](https://ezgif.com/)
+- [imgmov Image Resizer](https://imgmov.com/resize-image-for-ai-video) - Free browser tool to crop or pad a photo to exact dimensions before preparing product visuals.
 - [BannerSnack](https://www.bannersnack.com/)
 - [Screely](https://screely.com/)
 - [BudgetPixel Design Templates](https://budgetpixel.com/design/templates)
