@@ -112,6 +112,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
 <tr>
+<td>Helmpages</td>
+<td>Website Builder / SaaS</td>
+<td>Builds a website from a few answers and updates it when you send a message; changes are published only after approval.</td>
+<td>Independent professionals and small business owners</td>
+<td>Paid</td>
+<td><a href="https://helmpages.com/">helmpages.com</a></td>
+</tr>
+<tr>
 <td>Pulse</td>
 <td>Market Research / AI</td>
 <td>AI-moderated market research platform that runs customer interviews at scale.</td>
