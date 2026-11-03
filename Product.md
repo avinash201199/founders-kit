@@ -111,6 +111,12 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
 </tr>
 <tr>
+<td>BusinessOS</td>
+<td>Business Management / Invoicing &amp; Accounting</td>
+<td>Offline-first business platform: invoices, expenses, customers, cash flow and reports, with data encrypted on the device. English and Arabic.</td>
+<td>Freelancers and small business owners</td>
+<td>Free during limited early access</td>
+<td><a href="https://businessos.biz/">businessos.biz</a></td>
 <td>WhoOwnsWhat.xyz</td>
 <td>Founder Tools / Developer Tools</td>
 <td>Tracks shared project costs and asset ownership; Live MCP access for AI developer workflows.</td>
