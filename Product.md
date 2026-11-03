@@ -57,14 +57,6 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td><a href="https://getappniche.com/">getappniche.com</a></td>
 </tr>
 <tr>
-<td>Micro-SaaS Runway Price Floor Calculator</td>
-<td>Founder Tools</td>
-<td>Calculator for estimating a micro-SaaS price floor, break-even customers, and runway gap.</td>
-<td>Bootstrapped SaaS founders and solo operators</td>
-<td>Free</td>
-<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">Website</a></td>
-</tr>
-<tr>
 <td>UIZZE</td>
 <td>Design / Developer Tools</td>
 <td>Tools and UI references for coding agents, including a GitHub Action and MCP powered by 800,000+ real web and iOS screens.</td>
@@ -105,6 +97,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td><a href="https://gptimage2.asia/">gptimage2.asia</a></td>
 </tr>
 <tr>
+<td>CRMlead</td>
+<td>SaaS / CRM</td>
+<td>Lead-focused CRM: drag-and-drop pipeline, a next action on every lead, emails attached to leads, online booking.</td>
+<td>Small businesses, freelancers and small sales teams</td>
+<td>Freemium</td>
+<td><a href="https://crmlead.io">crmlead.io</a></td>
+</tr>
 <td>Agent QA</td>
 <td>Developer Tools / Testing</td>
 <td>Runs YAML-defined tests for AI agents across models, browsers, and devices.</td>
@@ -119,6 +118,38 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Independent professionals and small business owners</td>
 <td>Paid</td>
 <td><a href="https://helmpages.com/">helmpages.com</a></td>
+</tr>
+<tr>
+<td>Pulse</td>
+<td>Market Research / AI</td>
+<td>AI-moderated market research platform that runs customer interviews at scale.</td>
+<td>Founders, product and insights teams</td>
+<td>Paid plans, free trial available</td>
+<td><a href="https://pulsecorp.co">pulsecorp.co</a></td>
+</tr>
+<tr>
+<td>BusinessOS</td>
+<td>Business Management / Invoicing &amp; Accounting</td>
+<td>Offline-first business platform: invoices, expenses, customers, cash flow and reports, with data encrypted on the device. English and Arabic.</td>
+<td>Freelancers and small business owners</td>
+<td>Free during limited early access</td>
+<td><a href="https://businessos.biz/">businessos.biz</a></td>
+</tr>
+<tr>
+<td>WhoOwnsWhat.xyz</td>
+<td>Founder Tools / Developer Tools</td>
+<td>Tracks shared project costs and asset ownership; Live MCP access for AI developer workflows.</td>
+<td>Co-founders, indie hackers, and hackathon teams</td>
+<td>Free plan and sheet; paid plan planned</td>
+<td><a href="https://whoownswhat.xyz/">whoownswhat.xyz</a></td>
+</tr>
+<tr>
+<td>Zyta</td>
+<td>SaaS / Business Operations</td>
+<td>Operations workspace for Indian SMBs — GST invoices, work orders, inventory, and documents in one place, with guest-portal sharing and WhatsApp dispatch.</td>
+<td>Indian SMB owner-operators, field-service businesses, and agencies</td>
+<td>Freemium</td>
+<td><a href="https://zyta.dev">zyta.dev</a></td>
 </tr>
 </tbody>
 </table>
