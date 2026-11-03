@@ -103,6 +103,7 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Small businesses, freelancers and small sales teams</td>
 <td>Freemium</td>
 <td><a href="https://crmlead.io">crmlead.io</a></td>
+</tr>
 <td>Agent QA</td>
 <td>Developer Tools / Testing</td>
 <td>Runs YAML-defined tests for AI agents across models, browsers, and devices.</td>
@@ -117,6 +118,24 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Founders, product and insights teams</td>
 <td>Paid plans, free trial available</td>
 <td><a href="https://pulsecorp.co">pulsecorp.co</a></td>
+</tr>
+<tr>
+<td>BusinessOS</td>
+<td>Business Management / Invoicing &amp; Accounting</td>
+<td>Offline-first business platform: invoices, expenses, customers, cash flow and reports, with data encrypted on the device. English and Arabic.</td>
+<td>Freelancers and small business owners</td>
+<td>Free during limited early access</td>
+<td><a href="https://businessos.biz/">businessos.biz</a></td>
+</tr>
+<tr>
+<td>WhoOwnsWhat.xyz</td>
+<td>Founder Tools / Developer Tools</td>
+<td>Tracks shared project costs and asset ownership; Live MCP access for AI developer workflows.</td>
+<td>Co-founders, indie hackers, and hackathon teams</td>
+<td>Free plan and sheet; paid plan planned</td>
+<td><a href="https://whoownswhat.xyz/">whoownswhat.xyz</a></td>
+</tr>
+<tr>
 <td>Zyta</td>
 <td>SaaS / Business Operations</td>
 <td>Operations workspace for Indian SMBs — GST invoices, work orders, inventory, and documents in one place, with guest-portal sharing and WhatsApp dispatch.</td>
