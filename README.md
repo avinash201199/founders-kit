@@ -232,6 +232,7 @@ This collection includes:
 - [Namechk](https://namechk.com/)
 - [BrandBucket](https://www.brandbucket.com/)
 - [Squadhelp](https://www.squadhelp.com/)
+- [NameSale](https://namesale.store/)
 
 ### Co-founders
 - [Founders and Co-founders by Startups.com](https://www.startups.com/)
