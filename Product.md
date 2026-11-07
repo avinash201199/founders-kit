@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>depot.fitness</td>
+<td>Health & Fitness</td>
+<td>101 strength-training programs built on documented protocols (5/3/1, 5x5, push/pull/legs) with every set, rep and rest written out, a workout tracker and an AI program builder.</td>
+<td>People who lift and want a structured program instead of guessing.</td>
+<td>Freemium</td>
+<td><a href="https://depot.fitness/">depot.fitness</a></td>
+</tr>
 </tbody>
 </table>
