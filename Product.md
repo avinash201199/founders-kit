@@ -167,5 +167,29 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+	<td>Akii: SEO &amp; AI Search Optimizer</td>
+	<td>Developer Tools / SEO</td>
+	<td>Free Claude Code plugin to audit sites, check links, group keywords, and plan content.</td>
+	<td>Developers, founders, and SEO teams using Claude Code</td>
+	<td>Free</td>
+	<td><a href="https://akii.com/portfolio#search-optimizer">akii.com</a></td>
+</tr>
+<tr>
+	<td>Revenue Scout</td>
+	<td>SaaS / Lead Discovery</td>
+	<td>Finds public posts that fit what your business sells and helps you draft replies.</td>
+	<td>Founders, sales teams, and small businesses</td>
+	<td>Freemium</td>
+	<td><a href="https://revenuescout.ai/">revenuescout.ai</a></td>
+</tr>
+<tr>
+	<td>Marquorum</td>
+	<td>Affiliate Marketing / Creator Tools</td>
+	<td>Helps creators share AI apps, track signups, and see what they earn.</td>
+	<td>Creators and publishers who recommend software</td>
+	<td>Free</td>
+	<td><a href="https://marquorum.com/">marquorum.com</a></td>
+</tr>
 </tbody>
 </table>
