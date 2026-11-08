@@ -294,6 +294,7 @@ This collection includes:
 - [IPOs and Beyond - a16z](https://a16z.com/ipos-and-beyond-a-guide-to-exit-options-for-companies)
 - [Options vs Cash - Dan Luu](https://danluu.com/startup-options/)
 - [How To Invest In Startups - Sam Altman](https://blog.samaltman.com/how-to-invest-in-startups)
+- [Non-Dilutive Web3 Grants List - ZK Prime Capital](https://github.com/zkprimecapital/awesome-web3-grants)
 
 ### Angel Directories
 - [First Round Capital](https://firstround.com/)
