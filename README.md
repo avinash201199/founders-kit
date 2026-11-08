@@ -709,6 +709,7 @@ This collection includes:
 - [Datadog](https://www.datadoghq.com/)
 - [SolidPing](https://www.solidping.io/)
 - [Fivenines](https://fivenines.io/)
+- [LogBrew](https://logbrew.co/)
 
 ---
 
