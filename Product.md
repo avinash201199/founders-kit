@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>Nizlo</td>
+<td>IT Management / Remote Monitoring and Management</td>
+<td>Windows-first RMM software for monitoring endpoints, patching, alerts, automation, remote support, and IT service workflows.</td>
+<td>Managed service providers and internal IT teams</td>
+<td>Paid, with a 14-day free trial</td>
+<td><a href="https://nizlo.com/">nizlo.com</a></td>
+</tr>
 </tbody>
 </table>
