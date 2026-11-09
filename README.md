@@ -541,6 +541,7 @@ This collection includes:
 ### Email Design
 - [Parcel](https://useparcel.com/)
 - [Really Good Emails](https://www.reallygoodemails.com/)
+- [They Sent It](https://theysentit.com/)
 
 ### Blogging
 - [Hashnode](https://hashnode.com/)
