@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+	<td>App Store Localizer</td>
+	<td>Marketing / ASO</td>
+	<td>Localizes App Store listings from a public App Store URL: translated metadata, keywords, and screenshots for 20-plus locales in one pass.</td>
+	<td>Indie iOS developers and small app teams shipping globally</td>
+	<td>One-time</td>
+	<td><a href="https://asolocalization.com">asolocalization.com</a></td>
+</tr>
 </tbody>
 </table>
