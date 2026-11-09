@@ -211,8 +211,8 @@ This collection includes:
 - [Betalist](https://betalist.com/)
 
 ### Design Inspiration
+- [Mobbin](https://mobbin.com/)
 - [SaaS Pages](https://www.saaspages.com/)
-- [Mobbin](https://www.mobbin.com/)
 - [Page Flows](https://pageflows.com/)
 - [Page Collective](https://pagecollective.com/)
 - [Admire the Web](https://www.admiretheweb.com/)
