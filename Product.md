@@ -167,5 +167,29 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>pwa.directory</td>
+<td>Directory / Web</td>
+<td>Curated directory of installable Progressive Web Apps that can be added from the browser without an app store. Free submissions.</td>
+<td>People looking for installable PWAs, and PWA makers.</td>
+<td>Free</td>
+<td><a href="https://pwa.directory/">pwa.directory</a></td>
+</tr>
+<tr>
+<td>webapps.directory</td>
+<td>Directory / Web</td>
+<td>Curated directory of web apps that run in the browser: design and dev tools, editors, converters and games. Free submissions.</td>
+<td>People looking for browser-based tools, and web app makers.</td>
+<td>Free</td>
+<td><a href="https://webapps.directory/">webapps.directory</a></td>
+</tr>
+<tr>
+<td>boilerplates.directory</td>
+<td>Directory / Developer Tools</td>
+<td>Directory that compares SaaS starter kits and boilerplates by stack, pricing model and included features. Free submissions.</td>
+<td>Developers choosing a starter kit, and boilerplate makers.</td>
+<td>Free</td>
+<td><a href="https://boilerplates.directory/">boilerplates.directory</a></td>
+</tr>
 </tbody>
 </table>
