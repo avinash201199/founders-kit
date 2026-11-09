@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>AdVariq</td>
+<td>AI / Marketing / E-commerce</td>
+<td>AI ad creative and product marketing visual generator for DTC brands and online sellers.</td>
+<td>DTC brand founders, Shopify & Amazon sellers, and growth marketers</td>
+<td>Freemium: Free trial available, paid plans start at $29/mo</td>
+<td><a href="https://advariq.com/">advariq.com</a></td>
+</tr>
 </tbody>
 </table>
