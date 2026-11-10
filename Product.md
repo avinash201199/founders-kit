@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>Imagera</td>
+<td>AI / Marketing / Design</td>
+<td>AI studio to create and edit product photos, marketing videos, voiceovers and music with many leading models side by side, with Character IDs that keep a face or product the same in every shot.</td>
+<td>Founders, e-commerce sellers and small marketing teams who need visuals and video without a production crew</td>
+<td>Paid (credits or subscription)</td>
+<td><a href="https://imagera.ai">imagera.ai</a></td>
+</tr>
 </tbody>
 </table>
