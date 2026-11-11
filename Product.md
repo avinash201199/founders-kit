@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+	<td>IdeaMade</td>
+	<td>AI / No-Code</td>
+	<td>Build and publish web apps from plain-language requirements, with editable blueprints and version history.</td>
+	<td>Non-technical founders, independent professionals, and small teams</td>
+	<td>Freemium</td>
+	<td><a href="https://ideamade.ai/">ideamade.ai</a></td>
+</tr>
 </tbody>
 </table>
