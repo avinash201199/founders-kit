@@ -178,7 +178,7 @@ Add new products as a new table row at the end of the tbody section, below the p
 <tr>
 	<td>Revenue Scout</td>
 	<td>SaaS / Lead Discovery</td>
-	<td>Finds public posts that fit what your business sells and helps you draft replies.</td>
+	<td>Sales Prospecting Assistant that finds relevant public conversations and prepares replies you review and post.</td>
 	<td>Founders, sales teams, and small businesses</td>
 	<td>Freemium</td>
 	<td><a href="https://revenuescout.ai/">revenuescout.ai</a></td>
@@ -186,8 +186,8 @@ Add new products as a new table row at the end of the tbody section, below the p
 <tr>
 	<td>Marquorum</td>
 	<td>Affiliate Marketing / Creator Tools</td>
-	<td>Helps creators share AI apps, track signups, and see what they earn.</td>
-	<td>Creators and publishers who recommend software</td>
+	<td>Affiliate network for creators who promote Agentic Services through Affiliate Offers, track signups, and see what they earn.</td>
+	<td>Creators and publishers who recommend Agentic Services</td>
 	<td>Free</td>
 	<td><a href="https://marquorum.com/">marquorum.com</a></td>
 </tr>
