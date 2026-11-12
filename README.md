@@ -280,6 +280,7 @@ This collection includes:
 - [Product Hunt](https://www.producthunt.com/)
 - [Betalist](https://betalist.com/)
 - [MEDIAPRONET](https://mediapronet.com/)
+- [SitePatent](https://sitepatent.com/)
 
 ---
 
