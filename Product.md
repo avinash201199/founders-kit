@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>Benchlight</td>
+<td>Website Builder / Hosting</td>
+<td>Make and publish one free 10 MB site in your browser, have a complete business website or creator portfolio built for you, request a redesign, or host a supported existing site. Optional shop and booking modules are available.</td>
+<td>Businesses, creatives, and professionals</td>
+<td>Free builder; Standard $19/month or $199/year; Creator $39/month or $399/year; redesign and hosting priced separately</td>
+<td><a href="https://benchlight.dev/">benchlight.dev</a></td>
+</tr>
 </tbody>
 </table>
