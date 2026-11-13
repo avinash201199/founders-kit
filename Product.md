@@ -170,9 +170,9 @@ Add new products as a new table row at the end of the tbody section, below the p
 <tr>
 <td>Benchlight</td>
 <td>Website Builder / Hosting</td>
-<td>Make and publish one free 10 MB site in your browser, have a complete business website or creator portfolio built for you, request a redesign, or host a supported existing site. Optional shop and booking modules are available.</td>
+<td>Make and publish one free browser-built site per account, with up to 10 MB of files; have a complete business website or creator portfolio built for you, request a redesign, or host a supported existing site. Optional shop and booking modules are available.</td>
 <td>Businesses, creatives, and professionals</td>
-<td>Free builder; Standard $19/month or $199/year; Creator $39/month or $399/year; redesign and hosting priced separately</td>
+<td>Free builder; Standard $19/month or $199/year; Creator $39/month or $399/year; shop and booking $10/month each; redesign and hosting priced separately</td>
 <td><a href="https://benchlight.dev/">benchlight.dev</a></td>
 </tr>
 </tbody>
