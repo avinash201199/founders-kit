@@ -458,6 +458,7 @@ This collection includes:
 - [Jasper](https://www.jasper.ai/)
 - [Lumen5](https://lumen5.com/)
 - [Captions](https://www.captions.ai/)
+- [Glasp](https://glasp.co/)
 
 ---
 
