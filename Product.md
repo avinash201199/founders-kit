@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>GetYouTubeTranscript</td>
+<td>AI / Developer Tools</td>
+<td>Paste a YouTube link and get the transcript with timestamps, exportable as SRT, VTT, JSON, CSV, Markdown or TXT, with AI summary and chat on the site; also available through a REST API and an MCP server.</td>
+<td>Researchers, creators, students and developers who work with YouTube video content</td>
+<td>Freemium</td>
+<td><a href="https://getyoutubetranscript.com">getyoutubetranscript.com</a></td>
+</tr>
 </tbody>
 </table>
