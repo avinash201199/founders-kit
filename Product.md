@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>EveryApp</td>
+<td>Productivity / No-code / AI</td>
+<td>300+ free tools, apps and games in one place, plus an AI app builder that turns a description into your own private app.</td>
+<td>Anyone who wants everyday tools (PDF, photo, bills, habits) or a personal app without coding.</td>
+<td>Freemium</td>
+<td><a href="https://everyapp.pro/">everyapp.pro</a></td>
+</tr>
 </tbody>
 </table>
