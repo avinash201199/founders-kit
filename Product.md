@@ -172,7 +172,7 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Design Tools / App Marketing</td>
 <td>Browser editor for App Store and Google Play screenshots, with device frames, captions and export in every store size.</td>
 <td>Indie app developers and mobile teams</td>
-<td>Freemium</td>
+<td>Free</td>
 <td><a href="https://appscreen.pro">appscreen.pro</a></td>
 </tr>
 </tbody>
