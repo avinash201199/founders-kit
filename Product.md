@@ -178,7 +178,7 @@ Add new products as a new table row at the end of the tbody section, below the p
 <tr>
 	<td>Revenue Scout</td>
 	<td>SaaS / Lead Discovery</td>
-	<td>Sales Prospecting Assistant that finds relevant public conversations and prepares replies you review and post.</td>
+	<td>Agentic Coworker for sales prospecting. Scout finds relevant public conversations and prepares replies for you to review and post. Reply requests help Scout explore better search phrases.</td>
 	<td>Founders, sales teams, and small businesses</td>
 	<td>Freemium</td>
 	<td><a href="https://revenuescout.ai/">revenuescout.ai</a></td>
