@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>Wavegrain</td>
+<td>SaaS / AI / Marketing</td>
+<td>Curated TikTok slideshows and Instagram carousels for your brand on autopilot, written and designed from your brand and your photos, then scheduled and posted.</td>
+<td>Brands, founders, marketers and social media managers</td>
+<td>Paid</td>
+<td><a href="https://wavegrain.com/">wavegrain.com</a></td>
+</tr>
 </tbody>
 </table>
