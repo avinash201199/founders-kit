@@ -300,6 +300,7 @@ This collection includes:
 - [First Round Capital](https://firstround.com/)
 - [NFX List](https://www.nfx.com/)
 - [AngelBacked](https://www.angelbacked.co/)
+- [Indexed](https://indexed.vc/)
 
 ### Pitch Decks
 - [Cirrus Insight Deck](https://www.cirrusinsight.com/)
