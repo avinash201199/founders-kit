@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+	<td>Ginta</td>
+	<td>AI / Website Builder</td>
+	<td>Describe your business and get a live website in a minute or two, with contact forms, bookings, an online shop and a blog; Claude and ChatGPT can build sites through its MCP server.</td>
+	<td>Small businesses, freelancers and founders who need a website without hiring a developer.</td>
+	<td>Freemium</td>
+	<td><a href="https://ginta.app/">ginta.app</a></td>
+</tr>
 </tbody>
 </table>
