@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+	<td>Vidmoat</td>
+	<td>AI / Video</td>
+	<td>Agentic AI video editor: Otto edits your footage on a real timeline with captions, colour, music, voice and reframing.</td>
+	<td>Creators, marketers and small teams making video</td>
+	<td>Freemium</td>
+	<td><a href="https://vidmoat.com">vidmoat.com</a></td>
+</tr>
 </tbody>
 </table>
