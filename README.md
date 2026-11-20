@@ -490,6 +490,7 @@ This collection includes:
 ### Backend Services
 - [Airtable](https://airtable.com/)
 - [Firebase](https://firebase.google.com/)
+- [Nhost](https://nhost.io/)
 - [Prisma Postgres](https://www.prisma.io/postgres)
 - [Supabase](https://supabase.com/)
 
