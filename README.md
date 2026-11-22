@@ -385,6 +385,7 @@ This collection includes:
 - [Stencil](https://getstencil.com/)
 - [Snappa](https://snappa.com/)
 - [RemoveBg](https://remove.bg/)
+- [BackGone](https://backgone.com/)
 - [EzGIF](https://ezgif.com/)
 - [BannerSnack](https://www.bannersnack.com/)
 - [Screely](https://screely.com/)
