@@ -703,6 +703,7 @@ This collection includes:
 ## Monitoring & Logging
 
 - [Sentry](https://sentry.io/)
+- [TrustComponent Monitoring](https://www.trustcomponent.com/en/products/monitoring)
 - [Instabug](https://instabug.com/)
 - [Crashlytics](https://firebase.google.com/products/crashlytics)
 - [UptimeRobot](https://uptimerobot.com/)
