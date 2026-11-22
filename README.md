@@ -562,6 +562,7 @@ This collection includes:
 
 ### Product Analytics
 - [Segment](https://segment.com/)
+- [TrustAnalytics](https://www.trustcomponent.com/en/products/analytics)
 - [Amplitude](https://amplitude.com/)
 - [Mixpanel](https://mixpanel.com/)
 - [PostHog](https://posthog.com/)
