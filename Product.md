@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>Aethel</td>
+<td>AI / Hiring</td>
+<td>AI interviewer for hiring teams: candidates take a 15-minute first interview from a link for a role, the interviewer says it is an AI, and the team reviews scores that quote each candidate's own words.</td>
+<td>Founders and hiring teams</td>
+<td>Freemium</td>
+<td><a href="https://aethel.pro/for-companies">aethel.pro/for-companies</a></td>
+</tr>
 </tbody>
 </table>
