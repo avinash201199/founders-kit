@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>Free Invoice Generator</td>
+<td>Business Tools / Finance</td>
+<td>Create and download PDF invoices in the browser, with no account and no data stored on a server.</td>
+<td>Freelancers, founders and small businesses</td>
+<td>Free</td>
+<td><a href="https://free-invoice-generator.web-free.site/">free-invoice-generator.web-free.site</a></td>
+</tr>
 </tbody>
 </table>
