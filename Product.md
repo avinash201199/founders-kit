@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>Hermoso</td>
+<td>Marketing / AI</td>
+<td>Marketing tools for AI agents: Claude, ChatGPT, Cursor and other agents use it over MCP, CLI or API to research competitor ads, make image and video ads, schedule social posts and run paid campaigns.</td>
+<td>Founders, marketers and small teams who work through AI agents</td>
+<td>Freemium</td>
+<td><a href="https://hermoso.ai/">hermoso.ai</a></td>
+</tr>
 </tbody>
 </table>
