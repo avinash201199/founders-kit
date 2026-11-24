@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>Kite</td>
+<td>Design / AI</td>
+<td>A design tool your AI agents and your team share: Claude, ChatGPT, Cursor or Codex draw real, editable layers in the same file your team edits live, and any frame copies to Figma or as HTML, React or Tailwind.</td>
+<td>Founders, product teams and developers who design with AI agents</td>
+<td>Freemium</td>
+<td><a href="https://kite.new">kite.new</a></td>
+</tr>
 </tbody>
 </table>
