@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+	<td>StackCredits</td>
+	<td>SaaS / Finance</td>
+	<td>Get paid for unused AWS, Azure, GCP and AI credits without account transfer.</td>
+	<td>Founders with leftover cloud or AI credits</td>
+	<td>Paid (usage payout)</td>
+	<td><a href="https://stackcredits.com/sell-aws-credits/">stackcredits.com</a></td>
+</tr>
 </tbody>
 </table>
