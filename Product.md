@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>CVfy</td>
+<td>SaaS / Career</td>
+<td>Turns a PDF or DOCX resume into a hosted portfolio website.</td>
+<td>Students, job seekers and founders who need a personal site</td>
+<td>Free</td>
+<td><a href="https://cvfy.dev">cvfy.dev</a></td>
+</tr>
 </tbody>
 </table>
