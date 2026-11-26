@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+<td>BrandShield</td>
+<td>Founder Tools / Naming &amp; Domains</td>
+<td>Free 78-TLD instant domain availability, IANA RDAP/DNS lookup, real broker aftermarket NS detection, 28-variant typosquatting scanner, and live USPTO Class 009/042 trademark screening with zero search logging.</td>
+<td>Startup founders, indie hackers, and naming teams vetting product names before incorporation</td>
+<td>Free</td>
+<td><a href="https://brand.shipbastion.com">brand.shipbastion.com</a></td>
+</tr>
 </tbody>
 </table>
