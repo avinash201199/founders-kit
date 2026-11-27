@@ -386,6 +386,7 @@ This collection includes:
 - [Snappa](https://snappa.com/)
 - [RemoveBg](https://remove.bg/)
 - [EzGIF](https://ezgif.com/)
+- [Tinymast](https://tinymast.com/)
 - [BannerSnack](https://www.bannersnack.com/)
 - [Screely](https://screely.com/)
 - [BudgetPixel Design Templates](https://budgetpixel.com/design/templates)
