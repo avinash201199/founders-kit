@@ -167,5 +167,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Free</td>
 <td><a href="https://datacircle.dev/">datacircle.dev</a></td>
 </tr>
+<tr>
+	<td>StagePeek</td>
+	<td>Web Apps / Entertainment Tools</td>
+	<td>Interactive 2D/3D concert seat-view simulator and phone-zoom framing preview across 201+ stadiums and arenas worldwide.</td>
+	<td>Concertgoers, live-event fans, and venue guides</td>
+	<td>Freemium</td>
+	<td><a href="https://stagepeek.live">stagepeek.live</a></td>
+</tr>
 </tbody>
 </table>
