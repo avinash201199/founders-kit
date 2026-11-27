@@ -175,5 +175,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 	<td>Freemium</td>
 	<td><a href="https://stagepeek.live">stagepeek.live</a></td>
 </tr>
+<tr>
+	<td>Genaya</td>
+	<td>SaaS / CRM / Field Service</td>
+	<td>One app and one AI that run a service business: an AI receptionist for calls, texts and chats, scheduling, CRM, estimates and invoices, and payments.</td>
+	<td>Service businesses: field services, clinics, financial advisors, agencies and construction</td>
+	<td>Paid (14-day free trial)</td>
+	<td><a href="https://www.genaya.com">genaya.com</a></td>
+</tr>
 </tbody>
 </table>
