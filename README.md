@@ -920,13 +920,9 @@ This collection includes:
 - [F6S](https://www.f6s.com/)
 - [KillerStartups](http://www.killerstartups.com/)
 - [Startup Buffer](https://startupbuffer.com/)
-- [AllStartups.info](http://www.allstartups.info/)
-- [BetaPage](https://betapage.co/)
-- [Index.co](https://index.co/)
 - [Gust](https://gust.com/)
 - [Startup Project](http://www.startupproject.org/)
 - [Springwise](https://www.springwise.com/)
-- [Launch Lister](https://launchlister.com/)
 - [Vator.tv](http://vator.tv/)
 - [NextBigWhat](https://www.nextbigwhat.com/)
 - [SnapMunk](https://www.snapmunk.com/submit-your-startup)
@@ -942,6 +938,7 @@ This collection includes:
 - [Startup Ranking](https://www.startupranking.com/)
 - [AwesomeIndie](https://awesomeindie.com/)
 - [StarTap](https://startap.cc/) — Free directory where makers list websites and visitors support projects through a star-clicking game.
+- [SaaSCity](https://saascity.io/) — Interactive 3D SaaS and startup launch directory with a curated [free dofollow directories list](https://saascity.io/free-dofollow-directories).
 
 ### Relevant Subreddits
 - [r/coding](https://www.reddit.com/r/coding/)
